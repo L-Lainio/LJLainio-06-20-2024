@@ -1,7 +1,9 @@
-import React from 'react'
+// import React from 'react'
 
-export const Navigation = () => {
+export default function Navigation() {
     return (
-        <div>Navigation</div>
-    )
+        <nav>
+            {/* Navigation content goes here */}
+        </nav>
+    );
 }
